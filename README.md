@@ -45,8 +45,8 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 # Conflits
 
-- [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "edit depuis Github", comme message de commit.
-- [ ] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "edit local"
+- [ ] Depuis le site Github (le dépôt "distant"), utiliser le bouton éditer ✏ pour cocher cette case. Avec "édit depuis Github", comme message de commit.
+- [ ] Cochez cette case depuis VSCode (le dépôt sur votre PC). Faire un commit "édit local"
 - Demandez à VSCode de synchroniser.
   - Cela doit échouer.
   - Faire `Shift+CMD+P` Git: Pull (rebase)
@@ -78,8 +78,9 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 - Utiliser la commande `Shift+CMD+P` _Git: rebaser la branche_
   - Choisir la branche "Master"
-  - Accepter la version courante dans l'éditeur
-  - Valider la résolution de conflit dans le volet "Changements rebase" du panneau "Contrôle de code source"
+    - Si Conflit :
+      - Accepter la version courante dans l'éditeur
+      - Valider la résolution de conflit dans le volet "Changements rebase" du panneau "Contrôle de code source"
 
 ## "Merger" une branche
 
