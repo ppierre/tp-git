@@ -32,7 +32,13 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
     - [X] windows
     - [X] macos
     - [X] visualstudiocode
+  - Si extension ne fonctionne pas :
+    - Faire vous-même un nouveau fichier `.gitignore` à la racine.
+    - Sélectionner les mêmes choix sur le site [gitignore.io]
+    - Copier le contenu généré dans votre fichier `.gitignore`
 - [ ] cocher et faire commit "ajout .gitignore"
+
+[gitignore.io]: http://gitignore.io
 
 ## ajout manuel à `.gitignore`
 
