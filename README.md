@@ -15,7 +15,7 @@ Puis cloner votre fork sur votre PC (avec VSCode).
 
 ## Principe du TP
 
-- [X] Cochez les checkbox quand demandé et/ou répondez directement dans ce document.
+- [X] Cochez les checkboxes quand demandé et/ou répondez directement dans ce document.
 - Suivre les indications sur les commits et autres manipulation.
 
 L'historique git de vos commits sera la preuve que vous avez fait le TP.
@@ -95,7 +95,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
   - Sélectionner la branche _"????/test-branche"_
 - Regardez la liste des commits
   - Vous voyez les commits fait dans la branche !
-    - Et plus haut dans ce document les checkbox correspondantes sont cochées
+    - Et plus haut dans ce document les checkboxes correspondantes sont cochées
 - Poussez les commits vers Github
 
 # "Amend", Réordonner et "squash" les commits.
