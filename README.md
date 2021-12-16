@@ -68,7 +68,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 ## Changer de branche
 
 - Retourner à la branche _"master"_ avec le bouton en bas à droite
-  - Regardez les deux checkboxs au dessus, elle ne son pas cochées (**important:** les laissez ainsi) .
+  - Regardez les deux checkboxes au dessus, elle ne son pas cochées (**important:** les laissez ainsi) .
   - [ ] Cochez et commit : "commit dans master à rebaser dans branche"
 - Regardez la liste des commits
   - Vous ne voyez pas les commits fait dans la branche
@@ -176,6 +176,6 @@ https://github.com/?????/tp-git
 
 Archive d'un dépôt local : [git archive](https://git-scm.com/docs/git-archive).
 
-- Faire l'archive de ce dépôt et la rendre sur Mooodle.
+- Faire l'archive de ce dépôt et la rendre sur Moodle.
   - `git archive -o tp-git.zip HEAD`
   - Supprimez l'archive après l'avoir rendue (inutile de la garder sur votre ordinateur).
