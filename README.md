@@ -73,7 +73,7 @@ Le fichier `.gitignore` sert à indiquer à Git les fichiers qu'il doit ignorer 
 
 ## Changer de branche
 
-- Retourner à la branche _"master"_ avec le bouton en bas à droite
+- Retourner à la branche _"master"_ avec le bouton en bas à gauche
   - Regardez les deux checkboxes au dessus, elle ne son pas cochées (**important:** les laissez ainsi) .
   - [ ] Cochez et commit : "commit dans master à rebaser dans branche"
 - Regardez la liste des commits
