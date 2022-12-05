@@ -1,13 +1,13 @@
+- Nom :
+- Prénom :
+
 # Suivre les consignes de ce document
 
 Faire les modifications indiquées directement dans ce même document en suivant les indications.
-
-## Faire un fork de ce dépôt
-
-Depuis la page Github de ce dépôt, faire un fork de ce même dépôt.
-
-Puis cloner votre fork sur votre PC (avec VSCode).
-- `Shift+CMD+P` _Git clone_ Puis _Cloner à partir de Github_ Puis choisir son fork de `tp-git`
+- Faire un commit après avoir saisi votre nom et prénom *(et surtout ne pas le "pousser" vers GitHub)
+- Annuler ce commit avec VScode (<kbd>⇧⌘P</kbd> Git: Undo Last Commit)
+- Effacer votre prénom et refaire le commit (toujours sans le pousser).
+- Re-saisir votre prénom et amender le commit (<kbd>⇧⌘P</kbd> Git: Commit All (Amend))
 
 - [ ] Cochez cette checkbox en plaçant un "**X**" entre les deux `[ ]` en début de ligne.
 - Faire un commit avec le message "test commit et push"
